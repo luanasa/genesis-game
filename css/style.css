@@ -1,6 +1,12 @@
 body {
     margin: 0;
-    background-image: linear-gradient(to top, #ffffff, #f7f8ff, #ebf3ff, #dceeff, #c9eaff);
+    background-image: url(https://www.wowpatterns.com/assets/files/resource_images/watercolor-samosa-drawing-pattern-seamless-indian-food-texture.jpg);
+}
+
+.container {
+    font-family: 'Roboto Mono',monospace;
+    text-align: center;
+    color: #F6F2F4;
 }
 
 .main-game {
