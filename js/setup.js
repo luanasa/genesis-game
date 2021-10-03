@@ -89,7 +89,6 @@ let playGame = () => {
     nextLevel();
 }
 
-
 green.onclick = () => click(0);
 red.onclick = () => click(1);
 yellow.onclick = () => click(2);
