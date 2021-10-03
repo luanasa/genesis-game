@@ -1,3 +1,4 @@
 # Genesis Pastel Game
 
-![image](https://user-images.githubusercontent.com/38231334/135735946-e57acff6-709c-4a27-a77c-181467af0e8f.png)
+![image](https://user-images.githubusercontent.com/38231334/135766870-2bedfef9-f8a5-4dab-983e-27710722ad44.png)
+
